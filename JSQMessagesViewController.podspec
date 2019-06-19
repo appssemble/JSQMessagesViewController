@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
 
 	s.frameworks = 'QuartzCore', 'CoreGraphics', 'CoreLocation', 'MapKit', 'MobileCoreServices', 'AVFoundation'
 	s.requires_arc = true
-
+	
+	s.homepage = "https://github.com/jessesquires/JSQMessagesViewController"
 	s.deprecated = true
 end
